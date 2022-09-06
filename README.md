@@ -1,4 +1,4 @@
-I am Alinoor Sarker
+I am Alinoor Sarker {B. Sc in CCE(IIUC) and BUET (PG Dip. in ICT)}
 #### Sr. QA Engineer
 
 ISTQB Certified Tester | Automation | Security | Agile & Manual Tester
