@@ -1,9 +1,6 @@
-I am Alinoor Sarker 
-
+I'm Alinoor Sarker Sr. QA Engineer
+#### ISTQB Certified Tester | Automation | Security | Agile & Manual Tester
 #### BUET (PG Dip. in ICT) and B. Sc in CCE(IIUC) 
-#### Sr. QA Engineer
-
-ISTQB Certified Tester | Automation | Security | Agile & Manual Tester
 
 Now I have been working as a Sr. QA Engineer in Wunderman Thompson Dhaka, Bangladesh. I have also previous experience on ServicEngine Ltd as a QA Engineer and also almost one year of experience in Advanced Software Development as a Software Engineer.
 
@@ -27,7 +24,7 @@ Education: B. Sc in CCE(IIUC) and BUET (PG Dip. in ICT)
 Skills: Java / JavaScript / Python / 
 
 - 🔭 I’m currently working on Wunderman Thompson 
-- 🌱 I’m currently learning Automation 
+- 🌱 I’m currently learning Security Testing and Unit testing 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AlinoorSarker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alinoorsarker//)  
