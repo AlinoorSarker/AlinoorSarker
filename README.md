@@ -1,4 +1,4 @@
-### Hi there 👋, I am Alinoor Sarker
+I am Alinoor Sarker
 #### Sr. QA Engineer
 
 
