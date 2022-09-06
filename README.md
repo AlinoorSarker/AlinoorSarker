@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Alinoor Sarker
 #### Sr. QA Engineer
-![Sr. QA Engineer](https://www.facebook.com/photo/?fbid=10208629308585803&set=a.3524272621167)
+
 
 I am Md. Alinoor Sarker PG. Dip. in (ICT), BUET and B. Sc. in Computer and Communication Engineering from IIUC. Now I have been working as a Sr. QA Engineer in Wunderman Thompson Dhaka, Bangladesh. I have also previous experience on ServicEngine Ltd as a QA Engineer and also almost one year of experience in Advanced Software Development as a Software Engineer.
 
