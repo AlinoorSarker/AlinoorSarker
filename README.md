@@ -1,6 +1,6 @@
 I'm Alinoor Sarker Sr. QA Engineer
 #### ISTQB Certified Tester | Automation | Security | Agile & Manual Tester
-#### BUET (PG Dip. in ICT) and B. Sc in CCE(IIUC) 
+#### PG Dip. in ICT(BUET) and B. Sc in CCE(IIUC) 
 
 Now I have been working as a Sr. QA Engineer in Wunderman Thompson Dhaka, Bangladesh. I have also previous experience on ServicEngine Ltd as a QA Engineer and also almost one year of experience in Advanced Software Development as a Software Engineer.
 
