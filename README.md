@@ -20,7 +20,6 @@ Now I have been working as a Sr. QA Engineer in Wunderman Thompson Dhaka, Bangla
 - Expertise in tracking Bug reports using Bug Tracking Tool- Bugzilla, Mantis.
 - Expertise in Project Management Tool – Teamwork
 
-Education: B. Sc in CCE(IIUC) and BUET (PG Dip. in ICT)
 Skills: Java / JavaScript / Python / 
 
 - 🔭 I’m currently working on Wunderman Thompson 
