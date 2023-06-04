@@ -23,7 +23,7 @@ Now I have been working as a Sr. QA Engineer in Wunderman Thompson Dhaka, Bangla
 Skills: Java / JavaScript / Python / 
 
 - 🔭 I’m currently working on Wunderman Thompson 
-- 🌱 I’m currently learning Security Testing and Unit testing 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AlinoorSarker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alinoorsarker/)  
